@@ -11,4 +11,5 @@ LV 1 - 네트워크 구축 및 핵심 기능 배포
 
 Lv2 - DB 분리 및 보안 연결하기 
 <img width="1650" height="1150" alt="image" src="https://github.com/user-attachments/assets/00749586-cc67-423c-8d18-acda564a3cc0" />
-<img width="2549" height="982" alt="image" src="https://github.com/user-attachments/assets/4b8b9cd2-072f-496b-9280-7b5a4606ee28" />
+<img width="2121" height="1251" alt="image" src="https://github.com/user-attachments/assets/f8f5a454-807e-4d56-9a2f-97a70a31339f" />
+
